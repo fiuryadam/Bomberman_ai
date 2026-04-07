@@ -51,6 +51,8 @@ Hlavní skript:
 python main.py
 ```
 
+## Ovládání
+
 | Klávesa | Akce           |
 | ------- | -------------- |
 | W       | Pohyb nahoru   |
